@@ -13,7 +13,7 @@
 		<ul>
 			<li>Madeleine</li>
 			<li>Age: 30</li>
-			<li>Strong interest in foods around the world</li>
+			<li>Strong interest in foods, cultures, and history around the world</li>
 			<li>Is very curious about everyday things</li>
 			<Li>Enjoys experimenting with food ingredients</Li>
 			<Li>Likes to try new things</Li>

@@ -10,7 +10,7 @@
 	<img src="madeleine.jpg">
 </div>
 <div>
-	<p>As a registered user, I want to find the butter episode I heard on NPR.</p>
+	<p>As a registered user, I want to find the like butter episode I heard on NPR.</p>
 </div>
 </body>
 </html>

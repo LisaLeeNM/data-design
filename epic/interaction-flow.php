@@ -17,6 +17,7 @@
 		<li>M presented with various episodes and recipes with butter in the title name</li>
 		<li>M scans for the episode she's interested in</li>
 		<li>M finds the episode 'From milk to magic, understanding the rich history of butter'</li>
+		<li>M clicks to 'Like' the episode</li>
 	</ol>
 </div>
 </body>
