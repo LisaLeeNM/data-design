@@ -15,7 +15,7 @@
 		<li>Brief High-Level Description of Scenario: Madeleine is looking for the episode on butter that she missed.</li>
 		<li>Name of User: Madeleine enjoys learning about the history of food</li>
 		<li>Usage Precondition: Madeleine is on The Splendid Table homepage</li>
-		<Li>Usage Postcondition: Madeleine finds the story about butter!</Li>
+		<Li>Usage Postcondition: Madeleine recommends the story about butter!</Li>
 	</ul>
 </div>
 </body>
