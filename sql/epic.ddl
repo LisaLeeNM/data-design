@@ -19,9 +19,9 @@ create table episode(
 );
 
 create table recommend(
+	recommendDate datetime(6) not null,
 	recommendEpisodeId binary(16) not null,
 	recommendProfileId binary(16) not null,
-	recommendDate datetime(6) not null,
 	index(recommendEpisodeId),
 	index(recommendProfileId),
 	foreign key(recommendEpisodeId) references episode(episodeId),
